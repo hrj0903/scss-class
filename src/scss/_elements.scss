@@ -1,19 +1,10 @@
-%categoryTitle {
-  font-weight: 600;
-  font-size: 22px;
-  margin-bottom: 50px;
+%tinyText {
+  color: $red;
+  font-size: 12px;
+  font-family: 'Nunito';
 }
 
-%btn {
-  text-decoration: none;
-  color: inherit;
-  border: $border;
-  padding: 10px 40px;
-  font-weight: 500;
-  border-radius: 99px;
-  transition: background-color 0.2s linear;
-  &:hover {
-    background-color: black;
-    color: white;
-  }
+%grid {
+  display: grid;
+  grid-template-columns: 1fr 3fr 5fr;
 }
