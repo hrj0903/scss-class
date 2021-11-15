@@ -1,6 +1,6 @@
 # SCSS class
 
-(S)CSS Layout Masterclass: Flexbox & Grid
+(S)CSS Layout class: Flexbox & Grid
 
 ## Flexbox:
 
